@@ -16,7 +16,7 @@ SpeakEasy is a Streamlit-based interactive voice assistant that leverages OpenAI
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your_username/speakeasy.git
+   git clone https://github.com/saqib727/Speech-LLM.git
    cd speakeasy
    ```
 2. **Install dependecies:**
